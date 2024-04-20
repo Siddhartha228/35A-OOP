@@ -6,7 +6,13 @@ public class task3 {
          * a = l*b
          * p = 2(l+b)
          */
-        
+        int l=10;
+        int b=20;
+        int a=l*b;
+        System.out.println("area="+a);
+
+        int p=2*(l+b);
+        System.out.println("perimeter="+p);
     }
     
 }
